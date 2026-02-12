@@ -171,7 +171,7 @@ main img .image {
 
 
 footer {
-    width: 100%;
+    width: auto;
     background-color: #1A5C38;
     color: white;
     text-align: center;
@@ -208,3 +208,4 @@ div#video >iframe {
     width: 90%;
     height: 90%;
 }
+
